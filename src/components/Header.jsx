@@ -52,7 +52,7 @@ export default function Header() {
   return (
     <StyledHeader>
       <img src={logo} alt="A canvas" />
-      <h1>Styled Components</h1>
+      <h1>Styled Components in Reactjs</h1>
       <p
       // className={styles.para}
       >

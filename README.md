@@ -1,4 +1,4 @@
-# React Styled Components
+# Styled Components in Reactjs
 
 This exercise focuses on learning and implementing [Styled Components](https://styled-components.com/docs) in ReactJS. Styled Components is a popular library that allows you to write CSS-in-JS, which means you can style your React components using actual CSS syntax but within your JavaScript files. This approach provides a more dynamic and modular way to style components, leading to improved maintainability and scalability of your React applications.
 
