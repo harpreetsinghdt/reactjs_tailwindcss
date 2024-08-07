@@ -37,16 +37,16 @@ This exercise focuses on learning and implementing [Styled Components](https://s
 
 1. **Creating a Sample Project**:
 
-   - Build a simple React application to practice implementing Styled Components.
-   - Create various UI components such as buttons, forms, and layout elements using Styled Components.
+   - Built a simple React application to practice implementing Styled Components.
+   - Created various UI components such as buttons, forms, and layout elements using Styled Components.
 
 2. **Hands-on Exercises**:
 
-   - Complete a series of hands-on exercises to reinforce your understanding of Styled Components.
-   - Implement dynamic styling, theming, and advanced techniques in your sample project.
+   - Completed a series of hands-on exercises to reinforce your understanding of Styled Components.
+   - Implemented dynamic styling, theming, and advanced techniques in your sample project.
 
 3. **Project Showcase**:
-   - Apply your knowledge of Styled Components to build a small project or feature.
-   - Present your project, highlighting how Styled Components improved your development process and the overall quality of your styles.
+   - Applied knowledge of Styled Components to build a small project or feature.
+   - Presented project, highlighting how Styled Components improved your development process and the overall quality of your styles.
 
-By the end of this exercise, you should have a solid understanding of how to use Styled Components in React, enabling you to create more maintainable, scalable, and dynamic styles for your applications.
+By the end of this exercise, I have a solid understanding of how to use Styled Components in React, enabling to create more maintainable, scalable, and dynamic styles for large applications.
